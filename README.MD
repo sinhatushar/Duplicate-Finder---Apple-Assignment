@@ -1,4 +1,4 @@
-# Duplicate Finder For 2 Very Large Files
+# Duplicate Finder Between 2 Very Large Files
 
 ## Requirements :
 
