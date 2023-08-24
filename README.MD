@@ -1,13 +1,13 @@
-#Duplicate Finder For 2 Very Large Files
+# Duplicate Finder For 2 Very Large Files
 
-##Requirements :
+## Requirements :
 
 >
 > 1. Java 8 +
 > 2. Maven
 >
 
-##Execution Steps :
+## Execution Steps :
 
 >
 >1. Import Maven Dependencies. Run FindDuplicates.
