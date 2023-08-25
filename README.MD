@@ -1,5 +1,20 @@
 # Duplicate Finder Between 2 Very Large Files
 
+## Problem Statement : 
+Let's assume we have two files, each containing a list of numbers, one number per line.
+
+The assignment is to write a function which takes these two files and finds all the numbers that are only present in both files.
+
+For this exercise, make the following assumptions:
+
+- Numbers are 64 bits integers
+
+- The files are very large, so that neither of them fits entirely in memory
+
+- The numbers are not stored in any particular order, and they may contain duplicates within the same file
+
+- The output should be written to another file, in the same format.
+
 ## Requirements :
 
 >
